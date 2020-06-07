@@ -1,3 +1,4 @@
+#Data Analysis of US Bikeshare Data
 import time
 import pandas as pd
 import numpy as np
@@ -29,7 +30,7 @@ def get_filters():
     while month != ('all', 'january', 'february', 'march', 'april', 'may', 'june'):
         break
     else:
-        print('Invalid Input\n')
+        print('Invalid Input. You need to enter any month from January to June or all.\n')
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     day = input("Which day of week do you want the information for?").lower()
@@ -156,6 +157,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#Code for displaying data upon user input
 def display_data(df):
     display = input('Do you want to see raw data? Yes or No? \n').lower()
     i = 0

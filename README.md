@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Date of Creation: 7 June 2020
 
 ### Project Title
-Replace the Project Title
+Data Analysis of Bikeshare US Data
 
 ### Description
-Describe what your project is about and what it does
+Provides data analytics after taking user input and provides filtering options for month and day of week
 
 ### Files used
-Include the files used
+washington.csvv, new_york_city.csv, chicago.csv, bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-

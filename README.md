@@ -11,4 +11,4 @@ Provides data analytics after taking user input and provides filtering options f
 washington.csvv, new_york_city.csv, chicago.csv, bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.macworld.co.uk/how-to/mac-software/show-hidden-files-mac-3520878/%20https:/git-scm.com/docs/git-show-branch/

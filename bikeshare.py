@@ -157,6 +157,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#Code for displaying data upon user input
 def display_data(df):
     display = input('Do you want to see raw data? Yes or No? \n').lower()
     i = 0
